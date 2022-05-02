@@ -59,7 +59,7 @@ nav{
     background-color: var(--cor3);
     font-family: var(--fonte-media);
     text-align: center;
-    font-size: 1.1em;
+    font-size: 1.2em;
     padding: 10px;
 }
 
@@ -136,7 +136,7 @@ thead th{
 
 tbody{
     background-color: var(--cor1);
-    font-size: 1em;
+    font-size: 1.1em;
 }
 
 tbody td{
